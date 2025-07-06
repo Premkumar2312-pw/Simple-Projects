@@ -14,10 +14,7 @@ Each project in this repository is created with 💯 passion for programming and
 - ✅ Score display
 - ✅ GUI with key listener
 - ✅ Game Over effect
-
-📸 Screenshots:
-*(Add image links once uploaded)*
-
+- 
 ---
 
 ## 🚀 How to Run Any Project
