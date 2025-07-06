@@ -1,4 +1,4 @@
-# 💻 Java Projects by Premkumar2312-pw
+# 💻 Java Projects 
 
 Welcome to my personal collection of Java projects! 🚀  
 Each project in this repository is created with 💯 passion for programming and a goal to learn something new every time.
